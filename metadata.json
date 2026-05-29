@@ -1,0 +1,6 @@
+{
+  "name": "Evangelho no Lar",
+  "description": "Um guia interativo e meditativo para a realização do Evangelho no Lar, com leitura de O Evangelho Segundo o Espiritismo, preces e reflexões sugeridas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
